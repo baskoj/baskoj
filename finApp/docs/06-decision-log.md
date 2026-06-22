@@ -31,3 +31,7 @@ Tahle poznámka je chronologická, odshora. Pravidlo: nikdy nepřepisuj staré z
 - Zaveden `docs/07-architektura.md` s datovou pipeline: vstupní data → robot/scraper → transformace (web rozhraní) → nativní appka (Android/iOS), white-label instance APP1/APP2.
 - Roadmapa doplněna o 4 kroky rolloutu (STEP 1–4) a STEP 4 = pasivní měsíční náhled pro koncové klienty.
 - Otevřeno k rozhodnutí: forma výstupu — statický report (v1) vs. nativní app (cíl). Označeno `[ZKONTROLOVAT]` v `05-vystup.md`.
+- **Reálné portfolio:** dodán kompletní přehled (`data/Baškovi.numbers`). Původní „XTB + Degiro" byl jen vzor — **ruší se** (ruší 2026-05-26 v této části). Reálné zdroje v1 = J&T Banka, FKI, Roboforex/Vantage, Komerční banka, kryptoměny; projekty a nemovitost manuálně.
+- `02-vstupni-data.md` a `roadmap.md` přepsány na reálné zdroje; přidán `08-portfolio.md` (struktura aktiv bez částek).
+- `data/samples/` srovnány: odebráno xtb/degiro, přidáno fki/roboforex/kb/krypto (jt zůstává).
+- `*.numbers` přidáno do `.gitignore` — soubor obsahuje citlivé částky, necommituje se.

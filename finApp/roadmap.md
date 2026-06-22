@@ -6,16 +6,18 @@
 
 ## v1 (teď)
 
-- Brokeři: XTB + Degiro
+- Zdroje (reálné portfolio, viz `docs/08-portfolio.md`): J&T Banka, FKI, Roboforex/Vantage (Enigma Wise), Komerční banka, kryptoměny. Projekty a nemovitost zatím manuálně.
 - Klíčová metrika: TWR
 - Výstup: statický top-down přehled (ne interaktivní dashboard)
 - Účel: nástroj pro poradce na schůzku s klientem
 
+> Pozn.: dřívější „XTB + Degiro" byl jen vzor, ne reálné portfolio (změněno 2026-06-22).
+
 ## v2
 
-- Podpora měn (víceměnová portfolia)
+- Podpora měn (víceměnová portfolia — např. nemovitost Dubai)
 - Dividendy
-- Další instrumenty a brokeři
+- Další instrumenty a zdroje
 
 ## v3
 
