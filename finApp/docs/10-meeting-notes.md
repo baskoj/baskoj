@@ -11,7 +11,7 @@ Trvání: 45 min
 
 ### Co jsme probrali
 
-- Vzorky dat z XTB — Daniel donesl 3 PDF, jsou v poznámce 02 / data/samples/xtb/.
+- Vzorky dat z XTB — Daniel přinesl 3 PDF, zatím nepřelito do repa (viz 02-vstupni-data.md, XTB pole `[ZKONTROLOVAT]`; cíl: `data/samples/xtb/`).
 - Diskuze o měnách — odloženo do v2.
 
 ### Rozhodnutí (→ promítnuto do 06-decision-log.md)
