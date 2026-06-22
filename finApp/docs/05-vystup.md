@@ -15,3 +15,8 @@ Obrázky: viz `../assets/` (screenshoty referenční aplikace).
 
 - Výstup je **statický, top-down** — NE interaktivní (JB: ve v1 a asi ani v2 interaktivita nedává smysl; stačí podívat se shora dolů a vidět, co se děje). `[ZKONTROLOVAT]` (názor Daniela)
 - Účel: nástroj / materiál pro poradce na schůzku — poradce klientovi rychle a názorně ukáže, co se děje. Výstup drží poradce, ne klient.
+
+## Forma výstupu — krátkodobě vs. cílově
+
+- `[ZKONTROLOVAT]` Náčrt vize (sync Honza + Dan) ukazuje jako cílovou formu **nativní aplikaci Android / iOS** (viz `07-architektura.md`). To napíná „statický, ne-interaktivní" výstup výše.
+- Pracovní hypotéza: **v1 = statický top-down report** (důkaz konceptu, např. dnešní J&T report), **cílově = nativní app**. Nerozhodnuto, k potvrzení s Danielem.

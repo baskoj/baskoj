@@ -24,3 +24,10 @@ Tahle poznámka je chronologická, odshora. Pravidlo: nikdy nepřepisuj staré z
 ## 2026-05-30 (JB)
 
 - Obrázek pro level one — appka mezi JB a Danielem.
+
+## 2026-06-22 (JB)
+
+- Promítnut ruční náčrt vize ze syncu Honza + Dan do struktury.
+- Zaveden `docs/07-architektura.md` s datovou pipeline: vstupní data → robot/scraper → transformace (web rozhraní) → nativní appka (Android/iOS), white-label instance APP1/APP2.
+- Roadmapa doplněna o 4 kroky rolloutu (STEP 1–4) a STEP 4 = pasivní měsíční náhled pro koncové klienty.
+- Otevřeno k rozhodnutí: forma výstupu — statický report (v1) vs. nativní app (cíl). Označeno `[ZKONTROLOVAT]` v `05-vystup.md`.
