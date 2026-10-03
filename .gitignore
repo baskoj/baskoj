@@ -1,0 +1,11 @@
+# This repo is public. Every folder here is its own project (finApp, school, method_feedeer,
+# czski-review, csob, …) or scratch output, so ignore everything and allowlist what is tracked.
+/*
+!/.gitignore
+!/.gitmodules
+!/bash
+!/jbasko-workspace.code-workspace
+!/.claude/
+/.claude/*
+!/.claude/settings.local.json
+.DS_Store
