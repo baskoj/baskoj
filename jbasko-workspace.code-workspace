@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "finApp"
+		},
+		{
+			"path": "method_feedeer"
+		},
+		{
+			"path": "school"
 		}
 	],
 	"settings": {}
